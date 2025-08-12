@@ -30,48 +30,62 @@ Built with **EAS Build** for easy deployment to Android.
 
 ---
 
+````markdown
 ## Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/YOUR-USERNAME/ExpenseTracker.git
-Navigate into the project:
+````
 
-bash
-Copy
-Edit
-cd ExpenseTracker
-Install dependencies:
+2. Navigate into the project:
 
-bash
-Copy
-Edit
-npm install
-Start the Expo development server:
+   ```bash
+   cd ExpenseTracker
+   ```
 
-bash
-Copy
-Edit
-npx expo start
-Building for Android (EAS)
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the Expo development server:
+
+   ```bash
+   npx expo start
+   ```
+
+---
+
+## Building for Android (EAS)
+
 To build the app for Android using EAS Build:
 
-bash
-Copy
-Edit
+```bash
 eas build -p android --profile preview
-Tech Stack
-React Native (Expo)
+```
 
-react-native-calendars
+---
 
-Context API for state management
+## Tech Stack
 
-EAS Build for app distribution
+* React Native (Expo)
+* react-native-calendars
+* Context API for state management
+* EAS Build for app distribution
 
-License
+---
+
+## License
+
 This project is licensed under the MIT License.
 
-Author
-Muhammad Saad
-GitHub: https://github.com/saadmdev
+---
+
+## Author
+
+**Muhammad Saad**
+GitHub: [https://github.com/saadmdev](https://github.com/saadmdev)
+
+```
