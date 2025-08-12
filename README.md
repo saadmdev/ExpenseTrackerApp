@@ -30,7 +30,6 @@ Built with **EAS Build** for easy deployment to Android.
 
 ---
 
-````markdown
 ## Installation
 
 1. Clone the repository:
