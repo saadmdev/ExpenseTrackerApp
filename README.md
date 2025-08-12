@@ -30,13 +30,14 @@ Built with **EAS Build** for easy deployment to Android.
 
 ---
 
-````markdown
 ## Installation
+
+````markdown
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/YOUR-USERNAME/ExpenseTracker.git
-````
+   ```
 
 2. Navigate into the project:
 
